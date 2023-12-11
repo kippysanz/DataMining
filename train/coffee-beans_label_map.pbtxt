@@ -1,0 +1,10 @@
+item {
+    name: "arabica-roasted",
+    id: 1,
+    display_name: "arabica-roasted"
+}
+item {
+    name: "liberica-roasted",
+    id: 2,
+    display_name: "liberica-roasted"
+}
